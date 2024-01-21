@@ -2,6 +2,9 @@
 
 This is a basic Todo app that allows you to keep track of your tasks. It comes with minimal features - adding and deleting tasks.
 
+## Link
+https://annanya17699.github.io/todoslist/
+
 ## Features
 
 - **Add Task:** Easily add new tasks to your to-do list.
@@ -11,7 +14,7 @@ This is a basic Todo app that allows you to keep track of your tasks. It comes w
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/annanya17699/todoslist
+   git clone https://github.com/annanya17699/todoslist.git
    ```
 
 2. **Navigate to the Project Directory:**
